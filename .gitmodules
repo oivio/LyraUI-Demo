@@ -1,0 +1,3 @@
+[submodule "Plugins/LyraUI"]
+	path = Plugins/LyraUI
+	url = https://github.com/oivio/LyraUI.git
